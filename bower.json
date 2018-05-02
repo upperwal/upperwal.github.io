@@ -1,0 +1,24 @@
+{
+  "name": "Angular Template",
+  "version": "0.0.1",
+  "authors": [
+    "upperwal <a.upperwal@gmail.com>"
+  ],
+  "main": "index.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.4.5",
+    "angular-route": "~1.4.5",
+    "jquery": "~2.1.4",
+    "require": "http://requirejs.org/docs/release/2.1.20/minified/require.js",
+    "bootstrap": "~3.3.5"
+  }
+}
